@@ -159,5 +159,8 @@ const StyledTerms = styled.section`
     h1 {
       font-size: 3.3rem;
     }
+    .test {
+      padding: 4rem;
+    }
   }
 `;
